@@ -25,6 +25,10 @@ Component({
     classId: {
       type: Number,
       value: null
+    },
+    disableScroll: {
+      type: Boolean,
+      value: true
     }
   },
 
